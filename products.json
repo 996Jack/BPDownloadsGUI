@@ -56,6 +56,11 @@
         }
     },
     "macOS": {
+	"Supported":
+	    "macOS Mojave": "https://bit.ly/3xbDPMt",
+	    "macOS Sierra": "https://bit.ly/3xnSR21",
+	    "macOS Big Sur": "https://bit.ly/3nEZGc5",
+	    "macOS Catalina": "https://bit.ly/3cyIYVx"
         "Classic": {
             "Mac OS 8.6 (PowerMac G3-BW)": "https://dl.bobpony.com/macos/classic/Mac%20OS%208.6%20(PowerMac%20G3-BW).7z",
             "Mac OS 9.0.0": "https://dl.bobpony.com/macos/classic/Mac_OS_9.0.0.toast__0.zip",
